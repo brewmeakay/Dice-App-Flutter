@@ -16,5 +16,5 @@ On tap , the dice is randomly rolled. the Roll Button rolls both of the dices
 
 ## Screenshots
 
-![alt-text]()
+![alt-text](dicegif.gif)
 
