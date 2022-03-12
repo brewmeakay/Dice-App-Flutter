@@ -1,16 +1,20 @@
-# dice_state
+# Dicey
 
-A new Flutter project.
+A simple dice app made with Flutter as part of [Flutter Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) curriculum.
 
-## Getting Started
+## What does it do?
 
-This project is a starting point for a Flutter application.
+On tap , the dice is randomly rolled. the Roll Button rolls both of the dices
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Concepts Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Statefull widgets
+- Material App 
+- Columns and Rows
+- Expanded UI's
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+![alt-text]()
+
