@@ -1,6 +1,6 @@
 # Dicey
 
-A simple dice app made with Flutter as part of [Flutter Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) curriculum.
+A simple dice app made for Android and Ios with Flutter as part of [Flutter Bootcamp](https://www.udemy.com/course/flutter-bootcamp-with-dart/) curriculum.
 
 ## What does it do?
 
