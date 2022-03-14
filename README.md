@@ -6,7 +6,7 @@ A simple dice app made for Android and Ios with Flutter as part of [Flutter Boot
 
 On tap , the dice is randomly rolled. the Roll Button rolls both of the dices
 
-## Flutter Concepts Used
+## Flutter and Dart Concepts Used
 
 - Statefull widgets
 - Material App 
